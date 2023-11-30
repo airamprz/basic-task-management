@@ -1,5 +1,8 @@
 import './globals.css'
 import { Navbar } from './components/Navbar'
+import { BioRhyme } from 'next/font/google';
+
+const bioRhyme = BioRhyme({ subsets: ['latin-ext'], weights: [400, 700] });
 
 export default function RootLayout({ children }) {
   return (
@@ -8,7 +11,7 @@ export default function RootLayout({ children }) {
         <title>Task Management</title>
       </head>
 
-      <body>
+      <body className={bioRhyme.className}>
         <Navbar />
         {children}
       </body>
