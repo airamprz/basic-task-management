@@ -45,7 +45,7 @@ const TaskColumn = ({
   console.log("Renderizando TaskColumn");
 
   return (
-    <div className="flex flex-col items-center w-1/4 h-full p-4">
+    <div className="flex flex-col items-center w-1/4 h-full m-2">
       <div className="bg-gray-100 p-4 rounded-md">
         <h2 className="text-black text-center">{title}</h2>
         <div

@@ -42,8 +42,8 @@ export default function ProjectsPage() {
   return (
     <div className="bg-gray-200 min-h-screen">
       <div className="container mx-auto">
-        <div className="flex flex-col">
-          <div className="flex justify-center">
+        <div className="flex flex-col p-2">
+          <div className="flex flex-col md:flex-row justify-around items-center">
             {columns.map((column) => (
               <TaskColumn
                 key={column}
