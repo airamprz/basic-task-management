@@ -16,6 +16,4 @@ Este proyecto te permite organizar tus tareas de manera eficiente. Puedes crear 
 
 ## Tecnologías Utilizadas
 
-- **Frontend:**
-  - **Next.js:** Desarrollado con Next.js para una experiencia de usuario rápida y eficiente.
-  - **React:** Utilizando React para construir componentes reutilizables y mantener una interfaz dinámica.
+- **Frontend:** Desarrollado con React y Next.js para una experiencia de usuario avanzada y eficiente.
