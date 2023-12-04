@@ -35,7 +35,7 @@ export default function ProjectsIndexPage() {
 
   return (
     <div className="bg-gray-100 min-h-screen">
-      <div className="container mx-auto">
+      <div className="container mx-auto px-4 sm:px-48">
         <div className="flex flex-col">
           <h1 className="text-black text-3xl ml-4 mt-4 mb-4">Listado de proyectos</h1>
           <div className="grid gap-4 grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
