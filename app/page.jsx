@@ -24,13 +24,13 @@ export default function Home() {
           <h2 className="text-3xl font-semibold text-black mb-4">Lo que dicen nuestros usuarios</h2>
           <div className="bg-white p-6 rounded-lg shadow-md text-center">
             <blockquote className="italic text-gray-700">
-              "¡Esta aplicación ha transformado la forma en que administro mis tareas diarias! Muy impresionado."
+              ¡Esta aplicación ha transformado la forma en que administro mis tareas diarias! Muy impresionado.
             </blockquote>
             <cite className="mt-2 block text-indigo-700">- Elon Musk</cite>
           </div>
           <div className="bg-white p-6 rounded-lg shadow-md text-center mt-8">
             <blockquote className="italic text-gray-700 mt-4">
-              "¡Ya no tengo que preocuparme por olvidar las tareas importantes! ¡Gracias!"
+              ¡Ya no tengo que preocuparme por olvidar las tareas importantes! ¡Gracias!
             </blockquote>
             <cite className="mt-2 block text-indigo-700">- Jeff Bezos</cite>
           </div>
