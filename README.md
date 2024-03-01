@@ -17,3 +17,24 @@ Este proyecto te permite organizar tus tareas de manera eficiente. Puedes crear 
 ## Tecnologías Utilizadas
 
 - **Frontend:** Desarrollado con React y Next.js para una experiencia de usuario avanzada y eficiente.
+
+## Instalación
+
+Sigue estos pasos para instalar y ejecutar el proyecto localmente:
+
+# Clona este repositorio
+git clone https://github.com/airamprz/basic-task-management.git
+
+# Navega al directorio del proyecto
+cd nombre-del-repositorio
+
+# Instala las dependencias utilizando npm
+npm install
+
+# Inicia el servidor de desarrollo
+npm run dev
+
+Abre tu navegador y visita http://localhost:3000 para ver la aplicación.
+
+¡Listo! Ahora deberías tener el proyecto instalado y en ejecución en tu entorno local.
+
