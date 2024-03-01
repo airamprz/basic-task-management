@@ -1,41 +1,44 @@
-# Task Management con Next.js
+# Gestión de Tareas con Next.js
 
-¡Bienvenido/a a mi proyecto de gestión de tareas desarrollado con Next.js!
+¡Bienvenido/a a mi proyecto de gestión de tareas desarrollado con Next.js! En este repositorio, encontrarás una aplicación que te permite organizar tus tareas de manera eficiente. A continuación, te proporciono una descripción detallada y las instrucciones para instalar y ejecutar el proyecto localmente.
 
 ## Descripción del Proyecto
 
-Este proyecto te permite organizar tus tareas de manera eficiente. Puedes crear nuevas listas de tareas y personalizarlas según tus necesidades. Dentro de cada lista, tienes la flexibilidad de añadir tareas específicas con detalles personalizados. Simplifica tu vida gestionando tus tareas de forma clara y estructurada.
+Este proyecto está diseñado para simplificar la gestión de tus tareas diarias. Puedes crear listas de tareas personalizadas y añadir tareas específicas con detalles adaptados a tus necesidades. La interfaz intuitiva te permitirá organizar tus tareas de forma clara y estructurada.
 
 ## Características Clave
 
 - **Gestión de Listas de Tareas:** Crea, edita y elimina listas de tareas según tus proyectos o categorías.
 
-- **Tareas Personalizables:** Dentro de cada lista, añade tareas personalizables.
+- **Tareas Personalizables:** Dentro de cada lista, añade tareas con detalles específicos.
 
-- **Interfaz Intuitiva:** Disfruta de una interfaz de usuario intuitiva y fácil de usar para una gestión eficiente de tus tareas.
+- **Interfaz Intuitiva:** Disfruta de una experiencia de usuario avanzada y eficiente gracias a React y Next.js.
 
 ## Tecnologías Utilizadas
 
 - **Frontend:** Desarrollado con React y Next.js para una experiencia de usuario avanzada y eficiente.
 
-# Instalación
+# Instrucciones de Instalación
 
 Sigue estos pasos para instalar y ejecutar el proyecto localmente:
 
 1. Clona este repositorio:
-```bash
-git clone https://github.com/airamprz/basic-task-management.git
+   ```bash
+   git clone https://github.com/airamprz/basic-task-management.git
 
 2. Navega al directorio del proyecto:
-cd nombre-del-repositorio
+   ```bash
+   cd nombre-del-repositorio
 
 3. Instala las dependencias utilizando npm:
-npm install
+   ```bash
+   npm install
 
-4. Inicia el servidor de desarrollo
-npm run dev
+4. Inicia el servidor de desarrollo:
+   ```bash
+   npm run dev
 
-Abre tu navegador y visita http://localhost:3000 para ver la aplicación.
+5. Abre tu navegador y visita http://localhost:3000 para ver la aplicación.
 
-¡Listo! Ahora deberías tener el proyecto instalado y en ejecución en tu entorno local.
-
+¡Listo! Ahora deberías tener el proyecto instalado y en ejecución en tu entorno local. ¡Disfruta organizando tus tareas! 🚀.
+   
