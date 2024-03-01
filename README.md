@@ -28,7 +28,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto localmente:
 
 2. Navega al directorio del proyecto:
    ```bash
-   cd nombre-del-repositorio
+   cd basic-task-management
 
 3. Instala las dependencias utilizando npm:
    ```bash
